@@ -1,2 +1,2 @@
 # SampleProject
-My sample project
+My sample pgit commit -m "commit modified file now bro..."rojec
